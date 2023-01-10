@@ -1,0 +1,23 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+html {
+  color-scheme: dark;
+}
+body {
+  color: white;
+  background: "#36393F";
+}
+
+a {
+  color: lightskyblue;
+  text-decoration: underline;
+}
+
+* {
+  font-size: 1rem;
+}
